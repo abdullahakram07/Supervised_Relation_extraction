@@ -17,15 +17,15 @@ The project aims to extract relationships between entities mentioned in text dat
 ## Requirements
 To ensure the notebook functions properly, please install the necessary dependencies. The notebook contains the required packages, each specified where necessary.
   ```bash
-- Python 3.7 or higher
-- PyTorch
-- Transformers
-- PyTorch Lightning
-- Pandas
-- tqdm
-- scikit-learn
-- seaborn
-- matplotlib
+Python 3.7 or higher
+PyTorch
+Transformers
+PyTorch Lightning
+Pandas
+tqdm
+scikit-learn
+seaborn
+matplotlib
   ```
 ## Overview
 
@@ -55,7 +55,7 @@ To ensure the notebook functions properly, please install the necessary dependen
 - Validation Accuracy
 - Validation Loss
 
-### 5. Evaluation
+### 5. Evaluation Results
 - Precision
 - Recall
 - F1-Score
@@ -117,5 +117,8 @@ Evaluation results including the classification report and the individual metric
 - **Recall:** 0.9389281262982966
 - **F1 Score:** 0.9376028223897241
 
+### Confusion Matrix
+<img src="https://github.com/abdullahakram07/Supervised_Relation_extraction/blob/bf36132f519d34d92c46d689c14a88e77b6a20be/visualization/confusion%20matrix.png" height="600" width="600">
 
-
+## Inference
+<img src="https://github.com/abdullahakram07/Supervised_Relation_extraction/blob/bf36132f519d34d92c46d689c14a88e77b6a20be/visualization/inference.png">
