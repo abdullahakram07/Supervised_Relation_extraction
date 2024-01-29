@@ -122,3 +122,6 @@ Evaluation results including the classification report and the individual metric
 
 ## Inference
 <img src="https://github.com/abdullahakram07/Supervised_Relation_extraction/blob/bf36132f519d34d92c46d689c14a88e77b6a20be/visualization/inference.png">
+
+## API
+The model can be tested via API, as the code is already available. However, one module is currently undergoing further development to ensure optimal functionality. Notebooks offer a versatile platform for reproduction, evaluation, and inference tasks.
